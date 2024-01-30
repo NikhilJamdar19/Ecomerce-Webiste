@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
+import HeroSection from "./components/HeroSection";
 
 const About = () => {
-  return (
-    <div>About</div>
-  )
-}
+  const data = {
+    name: "Nikhil Ecommerce",
+  };
+  return <HeroSection myData={data}></HeroSection>;
+};
 
-export default About
+export default About;

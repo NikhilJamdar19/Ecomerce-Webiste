@@ -82,7 +82,7 @@ li {
 }
 
 
-${"" /* reusable code section  */}
+${"" /* resuable code section  */}
 
 .container {
   max-width: 120rem;
