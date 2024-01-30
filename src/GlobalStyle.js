@@ -33,7 +33,7 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
  
-  background: #fff;
+  background: #B6C4B6;
     border: 5px solid transparent;
     border-radius: 9px;
     background-clip: content-box;
